@@ -2,6 +2,6 @@
   "id": "continuouslogger",
   "command": ["npm", "run", "start"],
   "volumes": {
-    "foo": "bar"
+    "storage": "/opt/storage"
   }
 }
