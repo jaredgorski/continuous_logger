@@ -1,4 +1,7 @@
 {
   "id": "continuouslogger",
-  "command": ["npm", "run", "start"]
+  "command": ["npm", "run", "start"],
+  "volumes": {
+    "data": "/liferay/opt/data"
+  }
 }
