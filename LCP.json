@@ -1,13 +1,4 @@
 {
-  "id": "continuousloggerb",
-  "command": ["npm", "run", "start"],
-  "volumes": {
-    "data": "/liferay/opt/data",
-    "datb": "/liferay/opt/datb",
-    "datc": "/liferay/opt/datc",
-    "datd": "/liferay/opt/datd",
-    "date": "/liferay/opt/date",
-    "datf": "/liferay/opt/datf",
-    "datg": "/liferay/opt/datg"
-  }
+  "id": "continuouslogger",
+  "command": ["npm", "run", "start"]
 }
