@@ -1,4 +1,10 @@
 {
   "id": "continuouslogger",
-  "command": ["npm", "run", "start"]
+  "command": ["npm", "run", "start"],
+  "loadBalancer": {
+    "targetPort": 2222,
+    "customDomains": [
+      "woo.io"
+    ]
+  }
 }
