@@ -4,7 +4,8 @@
   "loadBalancer": {
     "targetPort": 2222,
     "customDomains": [
-      "woo.io"
+      "woo.io",
+      "wee.co"
     ]
   }
 }
