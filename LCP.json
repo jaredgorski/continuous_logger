@@ -1,6 +1,6 @@
 {
   "id": "continuousloggerb",
-  "command": ["npm", "run", "start"]
+  "command": ["npm", "run", "start"],
   "volumes": {
     "storage": "/opt/storage"
     "storage1": "/opt/storage1",
