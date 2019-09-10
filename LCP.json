@@ -1,17 +1,4 @@
 {
-  "id": "continuousloggerb",
-  "command": ["npm", "run", "start"],
-  "volumes": {
-    "storage1": "/opt/storage1",
-    "storage2": "/opt/storage2",
-    "storage3": "/opt/storage3",
-    "storage4": "/opt/storage4",
-    "storage5": "/opt/storage5",
-    "storage6": "/opt/storage6",
-    "storage7": "/opt/storage7",
-    "storage8": "/opt/storage8",
-    "storage9": "/opt/storage9",
-    "storage10": "/opt/storage10",
-    "storage11": "/opt/storage11"
-  }
+  "id": "continuouslogger",
+  "command": ["npm", "run", "start"]
 }
