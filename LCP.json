@@ -1,5 +1,4 @@
 {
   "id": "continuouslogger",
-  "scale": 2,
   "command": ["npm", "run", "start"]
 }
