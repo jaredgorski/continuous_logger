@@ -1,4 +1,9 @@
 {
   "id": "continuouslogger",
-  "command": ["npm", "run", "start"]
+  "command": ["npm", "run", "start"],
+  "environments": {
+    "infra": {
+      "deploy": false
+    }
+  }
 }
