@@ -1,5 +1,5 @@
 {
-  "id": "database",
+  "id": "continuouslogger",
   "command": ["npm", "run", "start"],
   "environments": {
     "infra": {
